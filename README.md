@@ -14,7 +14,7 @@ D3 needs to be run from a webserver due to how it imports data files.
 So, to run this visualization locally, from the Terminal, navigate to the directory you checked it out to
 
 ```
-cd ~/code/path/to/bubble_chart
+cd ~/code/path/to/Speech-Analyzer
 ```
 
 Then start a webserver locally. If you are on a Linux or Mac, you should be able to use python's built in webserver:
